@@ -24,7 +24,7 @@ import com.baidu.mapapi.model.LatLng;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//version1.1
 public class MainActivity extends AppCompatActivity {
 
     public LocationClient mLocationClient;
